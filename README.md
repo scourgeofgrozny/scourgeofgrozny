@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @IcyTerror
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning C and Java, as well as focused on improving some of my frontend languages. I'm relatively new to coding/programming in general, so any advice
+would be appreciated. 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: through PGP. 
+
+<!---
+IcyTerror/IcyTerror is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
