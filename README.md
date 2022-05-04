@@ -1,6 +1,6 @@
--My name is Floger. I am new to programming in general, so I am using this account for any creations that I make. If anyone has advice on my works, it would be much appreciated. 
+-My name is Michelin. I am new to programming in general, so I am using this account for any creations that I make. If anyone has advice on my works, it would be much appreciated. 
 
--**Discord: Floger#5180**
+-**Discord: MichelinMan#5180**
 
 -PGP: https://pastebin.com/1vuqjJqH
 <!---
