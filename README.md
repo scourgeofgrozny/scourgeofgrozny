@@ -1,4 +1,6 @@
--My name is Michelin. I am new to programming in general, so I am using this account for any creations that I make. If anyone has advice on my works, it would be much appreciated. 
+-My name is Michelin
+-Programming Noob 
+-Any advice on how to improve my projects is greatly appreciated. 
 
 -**Discord: MichelinMan#5180**
 
