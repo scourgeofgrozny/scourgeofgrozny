@@ -1,7 +1,5 @@
 -My name is Michelin
 
--Programming Noob 
-
 -Any advice on how to improve my projects is greatly appreciated. 
 
 -**Discord: MichelinMan#5180**
