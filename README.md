@@ -1,6 +1,6 @@
 -My name is Michelin
 
--Any advice on how to improve my projects is greatly appreciated. 
+-Giv advice on projects
 
 -**Discord: MichelinMan#5180**
 
