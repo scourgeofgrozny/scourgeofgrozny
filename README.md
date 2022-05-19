@@ -1,6 +1,6 @@
 -My name is Michelin
 
--Giv advice on projects
+-Advice on projects much appreciated
 
 -**Discord: MichelinMan#5180**
 
