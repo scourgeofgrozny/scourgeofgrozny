@@ -1,1 +1,1 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=scourgeofgrozny&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<br><br>
+For want of a nail, the horseshoe was lost. For want of a horseshoe, the steed was lost. For want of a steed, the message was not delivered. For want of an undelivered message, the war was lost.
